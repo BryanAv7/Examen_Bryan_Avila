@@ -13,5 +13,9 @@
  #   docker run -p 8080:80 exameninterciclov1
 
 
+# 3. Para ingresar al servicio web, mediante un navegador colocar localhost:80
+# Luego de ello dar click en "browser" y se direccionara a la pagina principal.
+
+
 
  
